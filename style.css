@@ -1,0 +1,91 @@
+.Banner {
+  background-image: url("https://s3-alpha-sig.figma.com/img/5968/1988/82b9d7f69fcdca9f60e6c3edce74a2dd?Expires=1669593600&Signature=bMWqGY4fJ4NsAHmpn-zHRFUVLc20O77nTUv6d9xuRGeq2rM6sessyr2TNjZR7HYijhjApFSi43oDWv3PGkzxe0SxzN0rJ9ltJEA4xit3yZBqPwtaLzinLBg2vAOqzYobulzb~Kcv7asJUDSCmwRPDLb30-sacS5dUnvMmZhTH9IlvptoH41CWIv~ZicCHIXNkATSfMUSKqg77LevAOSy3SqCuHQ25oFG0WPs~sckAYqbzjmijKzm00yj5m2GBMJmTvI96S~n1Al9sDs9XqqYaOalaJ8F2NQVF7BMGDrlPgPqBlbSxejSHTmVcQqbQxaRriD335dRgkYi8asrboo2ag__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 300px;
+  height: 100%;
+}
+
+.btn-gradient {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+}
+
+.navbar-gradient {
+  background: rgb(50, 81, 102);
+  border-bottom: 2px solid #fff;
+}
+.bg-gradient {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+}
+
+.form-search {
+  background: transparent;
+  border: none;
+}
+.form-search:focus {
+  background: transparent;
+  outline: none;
+}
+.search {
+  padding: 0 10px;
+  border: 1px solid #fff;
+  border-radius: 30px;
+}
+.Content {
+  background-color: #556377;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.Judul {
+  text-align: center;
+}
+
+.wrapper-card {
+  border-radius: 16px;
+  padding: 24px;
+}
+.order-now {
+  background: transparent !important;
+  border-top: none !important;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 480px) {
+ i{
+  width: auto;
+ }
+}

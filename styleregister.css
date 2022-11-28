@@ -1,0 +1,129 @@
+body, html{
+    height: 100%;
+    
+  }
+  .Banner{
+      background-color: #556377;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 100%;
+      padding: 5%;
+      
+      
+      
+      
+  
+      
+    }
+    .navbar-gradient {
+      background: rgb(50, 81, 102);
+      
+    }
+    
+    .form{
+      max-width: 452px;
+      height: auto;
+      padding: 3%;
+      background-color: rgba(255, 255, 255, 0.356) ;
+      position: relative;
+      margin: auto;
+      text-decoration: rgba(255, 255, 255, 0.7);
+      color: rgba(255, 255, 255, 0.7);
+      margin-top: 5%;
+      
+      
+    }
+    a{
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.7);
+    }
+    .form input{
+      background-color: #eef5ff7a;
+    }
+    .headerlogin{
+      text-align: center;
+      
+    }
+    .container{
+      height: 100%;
+      background-color: transparent;
+    }
+    
+  .btn-gradient {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+  }
+  
+  .navbar-gradient {
+    background: rgb(50, 81, 102);
+    border-bottom: 2px solid #fff;
+  }
+  .bg-gradient {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+  }
+  
+  .form-search {
+    background: transparent;
+    border: none;
+  }
+  .form-search:focus {
+    background: transparent;
+    outline: none;
+  }
+  .search {
+    padding: 0 10px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+  }
+  .Content {
+    background-color: #556377;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .Judul {
+    text-align: center;
+  }
+  
+  .wrapper-card {
+    border-radius: 16px;
+    height: 300px;
+    padding: 24px;
+  }
+  .order-now {
+    background: transparent !important;
+    border-top: none !important;
+  }
+  .tulisanratakiri{
+    margin-left: 0px;
+    left: 0px;
+    text-align: left;
+  }
+  .text-right{
+    margin-right: 0px;
+    right: 0px;
+    text-align: right;
+    margin-left: 50%;
+  }
+  .botomform{
+    width: 100%;
+    margin-top: 5%;
+  }
+  .btn{
+    width: 100%;
+    background-color: #325166;
+    border-radius: 0;
+    border-width: 0ch;
+    opacity: 0.7;
+  
+  }
+  .form-control{ 
+    border-radius: 0%;
+  }
+  .form-control::placeholder{
+    font-size: large;
+    color: rgba(255, 255, 255, 0.70);
+    font-weight: bold;
+  }
+  
